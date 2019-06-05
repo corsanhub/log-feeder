@@ -1,0 +1,9 @@
+2019-04-16 10:15:38,488 [DEBUG] [main] some.class: Line 1
+2019-04-16 10:15:38,863 [DEBUG] [main] org.springframework.core.env.PropertySourcesPropertyResolver: Another line
+2019-04-16 10:15:38,863 [DEBUG] [main] org.springframework.core.env.PropertySourcesPropertyResolver: And another one
+2019-04-16 10:15:39,395 [INFO ] [background] org.hibernate.validator.internal.util.Version: Hibernate line
+2019-04-16 10:15:41,113 [INFO ] [main] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer: Tomcat initialized example
+2019-04-16 10:16:02,475 [INFO ] [pool-1-thread-1] some.class: 24 seconds later
+2019-04-16 10:16:02,475 [INFO ] [pool-1-thread-1] some.class: And again
+2019-04-16 10:16:03,492 [INFO ] [pool-1-thread-1] some.class: Finishing test ...
+2019-04-16 10:16:09,682 [INFO ] [pool-1-thread-1] some.class: final line
